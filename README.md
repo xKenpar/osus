@@ -1,2 +1,2 @@
 # osus
-An Osu Clone Made With Raylib And C++
+[moved](https://github.com/ohasanov-hbrw/osus-revented)
